@@ -1,0 +1,52 @@
+_repo: The-World-s-Greatest-Books---Vol-XX---Miscellaneous-Literature-and-Index_44704
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44704-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2014-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcc 'PN'
+tableOfContents: 'Joseph Addison: Spectator -- Æsop: Fables -- Matthew Arnold: Essays
+  in criticism -- George Brandes: Main currents of nineteenth century literature --
+  Robert Burton: Anatomy of melancholy -- Thomas Carlyle: On heroes and hero worship.
+  Sartor resartus -- Marcus Tullius Cicero: Concerning friendship -- William Cobbett:
+  Advice to young men -- Daniel Defoe: Journal of the plague year -- Demosthenes:
+  Philippics -- Ralph Waldo Emerson: English traits. Representative men -- Erasmus:
+  Familiar colloquies. In praise of folly -- Gesta Romanorum -- Oliver Goldsmith:
+  Citizen of the world -- Henry Hallam: Introduction to the literature of Europe --
+  William Hazlitt: Lectures on the English poets -- Oliver Wendell Holmes: Autocrat
+  of the breakfast-table -- La Bruyère: Characters -- Walter Savage Landor: Imaginary
+  conversations -- La Rochefoucauld: Reflections and moral maxims -- Leonardo Da Vinci:
+  Treaties on painting -- Gotthold Ephraim Lessing: Laocoon -- John Stuart Mill: Essay
+  on liberty -- John Milton: Areopagitica -- Plutarch: Parallel lives -- Mme. de Staël:
+  On Germany -- Tacitus: Germania -- Taine: History of English literature -- Henry
+  David Thoreau: Walden -- De Tocqueville: Democracy in America -- Izaak Walton: Complete
+  angler -- Index.'
+title: The World's Greatest Books — Volume 20 — Miscellaneous Literature and Index
+url: http://www.gutenberg.org/ebooks/44704
