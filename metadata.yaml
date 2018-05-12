@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44704#The-World-s-Greatest-Books---Vol-XX---Miscellaneous-Literature-and-Index
 gutenberg_issued: '2014-01-18'
 gutenberg_type: Text
 identifiers:
